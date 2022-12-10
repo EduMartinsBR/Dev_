@@ -3,5 +3,10 @@ p {
 }
 
 h1 {
-    color: rgba(52, 10, 10, 0.89);
+    color: rgba(255, 0, 0, 0.89);
+}
+
+body {
+    color: black;
+    background-color: black;
 }
